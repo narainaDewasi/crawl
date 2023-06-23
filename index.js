@@ -129,4 +129,4 @@ async function scrapePage(url, parentTagClass, tags) {
   }
 }
 
-scrapePage("https://revenue.ie/en/starting-a-business/tbess/index.aspx", [""], ["p"]);
+scrapePage("https://uniraj.ac.in/", [""], ["p"]);
